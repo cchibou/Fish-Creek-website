@@ -1,0 +1,74 @@
+
+.dotted {border-style: dotted;}
+h1 {
+	text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+dt {font-family: DFKai-SB;
+	font-weight: bold;
+    font-size: 20px;
+}
+
+.liservices {margin: auto;
+    width: 60%;
+    padding: 10px;
+	font-family: DFKai-SB;
+	font-weight: bold;
+    font-size: 20px;
+}
+
+dd {font-family: DFKai-SB;
+    font-size: 20px;
+}
+
+li {
+    display: inline;
+	font-family: DFKai-SB;
+	}
+
+a { color: hotpink;
+	font-size: 30px;
+	padding: 10px 20px;
+}
+
+/*
+— float is realted to the background boarder not the actual picture?  —
+*/
+
+#animal {background-image: url("rabbit.jpg");
+background-position: right;
+float: rightwards;
+background-repeat: no-repeat;
+}
+
+
+#fish {background-image: url("koi.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+#s1{ font-size: 20px;
+color: blue;
+
+}
+.changetext{font-family: times new roman;
+color: white;
+    font-size: 15px;
+}
+
+.newcenter {
+    margin: auto;
+    width: 60%;
+	background-color: teal;
+	
+}	
+footer {background-color: darkgrey;
+font-size: 10px;
+
+
+
+}
